@@ -11,7 +11,10 @@ def contar_ciclo(n):
     Retorna una lista con los números desde 1 hasta n usando iteración.
     """
     # Escriba aquí su solución y borre la palabra pass de acontinuación
-    52
+    ciclo = []
+    for i in range (1, n+1):
+        ciclo.append(i)
+        
     
 
 
